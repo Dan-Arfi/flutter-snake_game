@@ -91,7 +91,7 @@ class _homePageState extends State<homePage> {
                     GestureDetector(
                       onTap: () {
                         setState(() {
-                          print('clicked!');
+                          print('clicked39485793845938457!');
                           if (!button_clicked) {
                             start_game();
                           }
